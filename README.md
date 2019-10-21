@@ -11,3 +11,7 @@ These learning materials helped me to improve my knowledge about version control
 ![Screenshot of completed test](task_unix_shell/Screen%20Shot%202019-10-15%20at%2010.51.41%20PM.png)
 
 Most of the commands that I learned in section 3 and 4 of the course were new to me. I was surprised by the huge variety of comands that can be implemented in linux terminal. I inted to use most of these commands and work with terminal, for example while working with Git and Github. These courses give a lot of good theoretical knowledge. 
+
+## Git Collaboration
+![Screenshot of completed course](task_git_collaboration/Screen%20Shot%202019-10-21%20at%2011.34.04%20AM.png)
+This course allowed me to learn how to collaborate in Github using version control. I explored useful commands such as git pull, git fetch, git merge and many others. I plan to use this knowledge in my future team projects.
