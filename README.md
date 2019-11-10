@@ -15,3 +15,11 @@ Most of the commands that I learned in section 3 and 4 of the course were new to
 ## Git Collaboration
 ![Screenshot of completed course](task_git_collaboration/Screen%20Shot%202019-10-21%20at%2011.34.04%20AM.png)
 This course allowed me to learn how to collaborate in Github using version control. I explored useful commands such as git pull, git fetch, git merge and many others. I plan to use this knowledge in my future team projects.
+
+
+## NodeJS Basics 1
+![Screenshot of completed course](node_basic_1/Screen%20Shot%202019-11-08%20at%208.20.14%20PM.png)
+![Screenshot of completed course](node_basic_1/Screen%20Shot%202019-11-10%20at%2010.41.02%20AM.png)
+![Screenshot of completed course](node_basic_1/Screen%20Shot%202019-11-10%20at%206.43.28%20PM.png)
+
+Actually, I found these courses to be too complicated for a beginner, especially for someone who is new to Node.js, like me. Though, I gained some practise and had to google a lot!:) I am going to strengthen my knowleddge by further exploring and studying functional programming and node.js.
